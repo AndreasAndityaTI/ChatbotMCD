@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <category>
+        <pattern>APA SAJA PROMO YANG ADA?</pattern>
+        <template>
+            <srai>
+                PROMO
+            </srai>            
+        </template>
+    </category>
+    <category>
+        <pattern>PROMO</pattern>
+        <template>
+            Promonya ada <get name="promo"/>
+        </template>
+    </category>
+</aiml>

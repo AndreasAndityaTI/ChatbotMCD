@@ -1,0 +1,442 @@
+[
+ {
+   "Regular": {
+      "Limited": 1
+   },
+   "Paket": {
+      "Item": "Hershey's McFlurry"
+   },
+   "A-la-carte": 15909,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 1
+   },
+   "Paket": {
+      "Item": "Double Choco Pie"
+   },
+   "A-la-carte": 15000,
+   "Paket 1": 20909,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Rame-Rame 7 Ayam"
+   },
+   "A-la-carte": 104091,
+   "Paket 1": 144545,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Rame-Rame 5 Ayam"
+   },
+   "A-la-carte": 76364,
+   "Paket 1": 110909,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Nasi Special"
+   },
+   "A-la-carte": null,
+   "Paket 1": 39545,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Nasi 1"
+   },
+   "A-la-carte": null,
+   "Paket 1": 32727,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Nasi 2"
+   },
+   "A-la-carte": 35000,
+   "Paket 1": 42727,
+   "Paket 2": 43636
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Cheeseburger Deluxe"
+   },
+   "A-la-carte": 25364,
+   "Paket 1": null,
+   "Paket 2": 37273
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Cheeseburger"
+   },
+   "A-la-carte": 25909,
+   "Paket 1": null,
+   "Paket 2": 35909
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Beef Burger Deluxe"
+   },
+   "A-la-carte": 20455,
+   "Paket 1": null,
+   "Paket 2": 35455
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Chicken Burger Deluxe"
+   },
+   "A-la-carte": 20455,
+   "Paket 1": null,
+   "Paket 2": 35455
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Big Mac"
+   },
+   "A-la-carte": 34545,
+   "Paket 1": null,
+   "Paket 2": 46364
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Triple Cheeseburger"
+   },
+   "A-la-carte": 50909,
+   "Paket 1": null,
+   "Paket 2": 63182
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Double Cheeseburger"
+   },
+   "A-la-carte": 33182,
+   "Paket 1": null,
+   "Paket 2": 44545
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "McSpicy"
+   },
+   "A-la-carte": 35455,
+   "Paket 1": null,
+   "Paket 2": 46364
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "McChicken"
+   },
+   "A-la-carte": 25909,
+   "Paket 1": null,
+   "Paket 2": 39091
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "McNuggets"
+   },
+   "A-la-carte": 25909,
+   "Paket 1": null,
+   "Paket 2": 38182
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Fish Fillet Burger"
+   },
+   "A-la-carte": 25909,
+   "Paket 1": null,
+   "Paket 2": 36364
+},
+ {
+   "Regular": {
+      "Limited": 1
+   },
+   "Paket": {
+      "Item": "Korean Soy Garlic Wings"
+   },
+   "A-la-carte": 30454,
+   "Paket 1": 27727,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 1
+   },
+   "Paket": {
+      "Item": "Iced Coffee Caramel Macchiato"
+   },
+   "A-la-carte": 19545,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Happy Meal"
+   },
+   "A-la-carte": null,
+   "Paket 1": null,
+   "Paket 2": 36282
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Apple Pie"
+   },
+   "A-la-carte": 11364,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "French Fries"
+   },
+   "A-la-carte": 10909,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Sweet Corn"
+   },
+   "A-la-carte": 10909,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Spicy Chicken Bites"
+   },
+   "A-la-carte": 11818,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Fish / Chicken Snack Wrap"
+   },
+   "A-la-carte": 15909,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Chicken Fingers"
+   },
+   "A-la-carte": 13182,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Beef / Chicken Burger"
+   },
+   "A-la-carte": 17727,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Rica-Rica Chicken / Fish"
+   },
+   "A-la-carte": 20000,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Rice McD"
+   },
+   "A-la-carte": 20000,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Honey Garlic Chicken / Fish"
+   },
+   "A-la-carte": 20000,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Choco / Strawberry Sundae"
+   },
+   "A-la-carte": 10909,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "McFlurry Choco / Oreo"
+   },
+   "A-la-carte": 12273,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Coca-cola / Fanta McFloat"
+   },
+   "A-la-carte": 12727,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Ice Cream Cone"
+   },
+   "A-la-carte": 7273,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Choco Top"
+   },
+   "A-la-carte": 9545,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Teh Botol / Fruit Tea"
+   },
+   "A-la-carte": 8636,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Coca-cola / Fanta / Sprite"
+   },
+   "A-la-carte": 8636,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Milo"
+   },
+   "A-la-carte": 11818,
+   "Paket 1": null,
+   "Paket 2": null
+},
+ {
+   "Regular": {
+      "Limited": 0
+   },
+   "Paket": {
+      "Item": "Prim-A "
+   },
+   "A-la-carte": 10455,
+   "Paket 1": null,
+   "Paket 2": null
+}
+]

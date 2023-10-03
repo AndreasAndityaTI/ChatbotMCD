@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <category>
+        <pattern>MCBOT</pattern>
+        <template>
+            <learn>promo.aiml</learn>
+            <learn>item.aiml</learn>
+        </template>
+    </category>
+</aiml>
