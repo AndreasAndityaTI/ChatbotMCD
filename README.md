@@ -1,7 +1,7 @@
 
 # Macbot
 
-This is simple web-based chatbot. This chatbot is simulated for food ordering in a restaurant. We were developed this project for final course project.
+This is simple web-based chatbot. This chatbot is for food ordering in a restaurant simulation. We were developed this project for final course project.
 
 ## Authors
 
